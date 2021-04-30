@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BlixWnd and I'm new to programming and I'm French.
-- 👀 I’m interested in I practice CSS and HTML but would like to learn to code with JAVA!
+- 🧐 I practice CSS and HTML but would like to learn to code with JAVA!
 - 📫 How to reach me : charlescvn28@gmail.com or on discord : BlixWnd.#7439
